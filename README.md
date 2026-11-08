@@ -1,6 +1,6 @@
 # LMAST Realism Mod V2.0
 ## By Nexxus Drako Multimedia
-### Up to date as of 2026-06-27 @ 06:15 UTC
+### Up to date as of 2026-11-08 @ 06:25 UTC
 ### REQUIRES PCSX2 EMULATOR
 
 ## Installation
