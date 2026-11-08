@@ -3,11 +3,6 @@
 ### Up to date as of 2026-06-27 @ 06:15 UTC
 ### REQUIRES PCSX2 EMULATOR
 
-[![AI:W (AI collaboration)](https://0rwx.com/static/AI-W.png)](https://0rwx.com/)
-
-## AI Usage: AI:W
-This mod is labelled **AI:W** (WRITE, "AI collaboration") under the [0rwx](https://0rwx.com/) model. AI tools have read-write access to the work, and every change they make is reviewed and fixed by hand.
-
 ## Installation
 1. Extract the zip to your PCSX2 folder.
 2. Tick Load Textures in Graphics > Texture Replacement
@@ -69,6 +64,8 @@ This mod is labelled **AI:W** (WRITE, "AI collaboration") under the [0rwx](https
 - Intro sequence with logo wheel at start of new game still has old logos. I have no idea how to dump or even find this, as it's technically a video file.
 - The above also applies to competition final results. This would require dumping the relevant file for every tournament. THis will be rectified by LMAST Dump Project, when it releases.
 - Sheffield United/QPR, and Leicester/Wolves use the same keeper kit. This is a game-side issue, and can't be fixed at this time.
+
+AI Usage Disclosure: This project follows the [0rwx Framework](https://0rwx.com/) at Level WRITE (w). AI tools are used to help draft code, text, or assets. However, all generated contributions are carefully curated, edited, and maintained by Nexxus Drako.
 
 DISCLAIMER: This project is a non-profit, fan-made modification and is not affiliated with or endorsed by SEGA, Adidas, or any football competition, league, club, federation, manager, chairman, or player.
 
