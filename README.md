@@ -3,6 +3,11 @@
 ### Up to date as of 2026-06-27 @ 06:15 UTC
 ### REQUIRES PCSX2 EMULATOR
 
+[![AI:W (AI collaboration)](https://0rwx.com/static/AI-W.png)](https://0rwx.com/)
+
+## AI Usage: AI:W
+This mod is labelled **AI:W** (WRITE, "AI collaboration") under the [0rwx](https://0rwx.com/) model. AI tools have read-write access to the work, and every change they make is reviewed and fixed by hand.
+
 ## Installation
 1. Extract the zip to your PCSX2 folder.
 2. Tick Load Textures in Graphics > Texture Replacement
